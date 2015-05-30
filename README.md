@@ -4,7 +4,7 @@ Carte de France choroplèthe interactive
 Démonstration
 --------------
 
-http://kerneis.github.com/france-choropleth/
+http://clodio.github.com/france-choropleth/
 
 Explications
 -----------
